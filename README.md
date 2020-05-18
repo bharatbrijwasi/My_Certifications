@@ -17,5 +17,5 @@
 
 ## Deep Learning
 ***
-![Deep Learning Certificate by Issued Udemy](MyCertificationList/Deep%20Learning%20by%20R.pdf)
+![Deep Learning Certificate by Issued Udemy](MyCertificationList/DeepLearning.jpg)
 
