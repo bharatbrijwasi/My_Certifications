@@ -1,5 +1,8 @@
 # My Certifications
 ### Here is my all certifications
+## AI
+***
+![AI Certificate](MyCertificationList/Certificate_page-0001.jpg)
 ## R
 *** 
 ![R Certificate issues by Issued NPTEL](MyCertificationList/NPTEL%20R%20Certificate.jpg)
